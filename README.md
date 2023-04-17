@@ -92,7 +92,14 @@ After selecting the play button from the main menu, the player will be taken to 
   <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/LevelSelectScreen.gif">
 </p>
 
-<h1>Enemies/Waves</h1>
+<h1>Enemies/Waves & Turrets</h1>
+
+In the current state of the game, there are 3 unique enemy types that the player can come across. The basic enemy is colored blue and has a standard amount of health and movement speed. The tough enemy type is red and has a ton of health in comparison, but moves very slow. The last enemy type is a fast enemy which is colored yellow and has very little health but moves very fast. Although there are only these three enemy types so far, the game is developed so that it is easy for designers to add new enemies to the game.
+
+The wavespawner.cs script provides functionality within the Unity editor to choose which enemy type to feature on a particular wave, how many of them to spawn, and the rate at which they will spawn. This makes it easy to design levels and increase the difficulty of each wave as the game progresses.
+
+The game also currently has 3 turret types: Basic, Missile, and Laser. The Basic and Missile turrets utilize projectiles while the Laser turret "locks on" to the enemy with its weapon. New turrets can be easily added to the game by providing a prefab model and customizing the turret properties within the editor.
+
 
 <h1>Upgrading/Selling Turrets</h1>
 
