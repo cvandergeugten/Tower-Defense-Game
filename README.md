@@ -30,6 +30,10 @@ When designing the main UI for this game, I had an option of having the UI appea
 
 <b>Wave Spawn Timer</b>: Displays how much time (in seconds) the player has left until the next wave of enemies spawn.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/GameBoardUI.gif">
+</p>
+
 <h1>Player Shop UI</h1>
 
 <h1>Game Camera</h1>
