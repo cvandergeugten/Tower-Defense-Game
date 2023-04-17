@@ -98,6 +98,10 @@ In the current state of the game, there are 3 unique enemy types that the player
 
 The wavespawner.cs script provides functionality within the Unity editor to choose which enemy type to feature on a particular wave, how many of them to spawn, and the rate at which they will spawn. This makes it easy to design levels and increase the difficulty of each wave as the game progresses.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/EnemyTypeDemo.gif">
+</p>
+
 The game also currently has 3 turret types: Basic, Missile, and Laser. The Basic and Missile turrets utilize projectiles while the Laser turret "locks on" to the enemy with its weapon. New turrets can be easily added to the game by providing a prefab model and customizing the turret properties within the editor.
 
 <p align="center">
