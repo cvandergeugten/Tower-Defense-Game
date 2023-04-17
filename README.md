@@ -10,7 +10,18 @@ This simple tower defense game was developed with Unity and C#. Player's start t
 
 <h1>Game Board</h1>
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/GameBoard.gif">
+</p>
+
 Although the project is based in 3D, the game board was created to give more of a 2D feel. The board consists of tiles which can be used to place turrets, as well as a path for enemies to move on. In each level, there is a start and end node which determines where the enemies spawn from and where they will end up if they are able to slip by the player's defenses. The tiles are laid out like a grid which makes is clear to the player where they can and cannot place turrets. Each tile will highlight when the player hovers over it with the mouse so they know which tile is being selected. If no turret has been selected to build, the tiles will not interact with the mouse cursor. Additionally, if the player does not have enough money for a particular turret, the tiles will change color indicating that turret placement is not possible.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/GameBoardTiles.gif">
+</p>
+
+
+
 
 <h1>Game Board UI</h1>
 
