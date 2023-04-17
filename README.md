@@ -25,7 +25,9 @@ Although the project is based in 3D, the game board was created to give more of 
 When designing the main UI for this game, I had an option of having the UI appear as a heads up display (HUD) which would remain on screen as the player moved the camera around, but I decided to have the UI be static components which have the effect of feeling attached to the game board. The game board UI displays the following for the player: number of lives, money, and time until next enemy wave.
 
 <b>Lives:</b> Displays the player's remaining lives for the current level. When this reaches 0 the game is over!
+
 <b>Money:</b> Displays how much money the player has to purchase turrets and upgrades.
+
 <b>Wave Spawn Timer</b>: Displays how much time (in seconds) the player has left until the next wave of enemies spawn.
 
 <h1>Player Shop UI</h1>
