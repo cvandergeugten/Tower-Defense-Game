@@ -86,6 +86,12 @@ When the player runs out of lives, the game is over! This will prompt the game o
 
 <h1>Level Selection Screen</h1>
 
+After selecting the play button from the main menu, the player will be taken to the level select screen where they will be able to choose which level they would like to play! The player can use the scroll bar or click & drag the mouse to navigate the level selection canvas.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/LevelSelectScreen.gif">
+</p>
+
 <h1>Enemies/Waves</h1>
 
 <h1>Upgrading/Selling Turrets</h1>
