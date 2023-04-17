@@ -36,6 +36,12 @@ When designing the main UI for this game, I had an option of having the UI appea
 
 <h1>Player Shop UI</h1>
 
+Unlike the game board UI, the turret shop exists as a HUD element so that wherever the player moves the camera to, they can always see access the shop items. In the current version of the game there are 3 turrets to choose from, but the canvas element within the UI is designed so that any additions to the shop will integrate smoothly and all of the buttons will be formatted correctly without having to adjust each element one at a time. Each button has an image of the turret and its corresponding price.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/ShopUI.gif">
+</p>
+
 <h1>Game Camera</h1>
 
 <h1>Pause Screen</h1>
