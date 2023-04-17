@@ -100,7 +100,7 @@ The wavespawner.cs script provides functionality within the Unity editor to choo
 
 The game also currently has 3 turret types: Basic, Missile, and Laser. The Basic and Missile turrets utilize projectiles while the Laser turret "locks on" to the enemy with its weapon. New turrets can be easily added to the game by providing a prefab model and customizing the turret properties within the editor.
 
-<p align="center" style="padding:100px;">
+<p align="center">
   <img width="300" height="200" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/BasicTurretDemo.gif">
   <img width="300" height="200" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/MissileTurretDemo.gif">
   <img width="300" height="200" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/LaserTurretDemo.gif">
