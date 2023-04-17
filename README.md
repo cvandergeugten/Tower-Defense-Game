@@ -66,6 +66,16 @@ Currently, the ESC key is bound to bring up the pause menu for the player. Bring
 
 <h1>Menu Screen</h1>
 
+This simple main menu screen features an animated turret with attached menu buttons: play and quit.
+
+<b>Play:</b> Takes the player to the level select screen.
+
+<b>Quit:</b> Exits the program.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/MenuScreenDemo.gif">
+</p>
+
 <h1>Game Over Screen</h1>
 
 <h1>Level Selection Screen</h1>
