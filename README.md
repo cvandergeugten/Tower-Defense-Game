@@ -78,6 +78,12 @@ This simple main menu screen features an animated turret with attached menu butt
 
 <h1>Game Over Screen</h1>
 
+When the player runs out of lives, the game is over! This will prompt the game over screen to pop up and give the player the option to retry the level or return to the main menu. Information about how many waves the player had survived is also presented on this screen. The game will also continue to run in the background while on this screen so the game still feels alive.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/GameOverScreen.gif">
+</p>
+
 <h1>Level Selection Screen</h1>
 
 <h1>Enemies/Waves</h1>
