@@ -44,6 +44,12 @@ Unlike the game board UI, the turret shop exists as a HUD element so that wherev
 
 <h1>Game Camera</h1>
 
+I gave the player the ability to control the camera using the WASD keys as well as scrolling the mouse the the edges of the screen. The player can also zoom in and out using the mouse wheel. This type of camera control is similar to and RTS styles game's camera and allows the player to focus in on specific parts of the map and see the action up close, or to get a view of their entire defense setup. The movement and zoom functionality has been bound so that the player cannot move too far away from the game board or zoom in under the map.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/GameCamera.gif">
+</p>
+
 <h1>Pause Screen</h1>
 
 <h1>Menu Screen</h1>
