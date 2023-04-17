@@ -52,6 +52,18 @@ I gave the player the ability to control the camera using the WASD keys as well 
 
 <h1>Pause Screen</h1>
 
+Currently, the ESC key is bound to bring up the pause menu for the player. Bringing up the pause menu will stop the game momentarily (of course!) and gives the players some options to choose from: continue, retry, or menu.
+
+<b>Continue:</b> Resumes the game where the player left off.
+
+<b>Retry:</b> Starts the current level over, resetting the player's money and number of lives.
+
+<b>Menu:</b> Returns the player to the main menu.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/PauseScreen.gif">
+</p>
+
 <h1>Menu Screen</h1>
 
 <h1>Game Over Screen</h1>
