@@ -118,5 +118,3 @@ Each turret type in the game has the ability to upgraded for a specified cost or
 <p align="center">
   <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/Upgrade_Sell.gif">
 </p>
-
-<h1>Particle Effects</h1>
