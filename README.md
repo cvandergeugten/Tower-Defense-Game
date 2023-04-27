@@ -113,4 +113,10 @@ The game also currently has 3 turret types: Basic, Missile, and Laser. The Basic
 
 <h1>Upgrading/Selling Turrets</h1>
 
+Each turret type in the game has the ability to upgraded for a specified cost or sold for some money back to use to buy other turrets/upgrades. These buttons were creating using Unity's UI system and is displayed whenver a placed turret is clicked on. When a turret is no longer the "currently selected turret", the UI for that turret will be hidden. Our buttons take advantage of the "On-Click" events in Unity which allows for functions in our code to be called whenver our buttons are clicked! When you click the upgrade button, the cost of the upgrade gets subtracted from the player's total and the old prefab is replaced with a prefab of the new upgraded turret! Upgraded turrets have increased range, fire rate, and damage output. Clicking the sell button will destroy the turret, refund the corresponding cost defined on the button, and produce a destruction particle effect. The upgrade/sell feature allows for more flexibility in the player's defense strategy, as they can change their turret layout depending on which enemy wave they are dealing with.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cvandergeugten/Tower-Defense-Game/blob/main/ProjectImages/Upgrade_Sell.gif">
+</p>
+
 <h1>Particle Effects</h1>
