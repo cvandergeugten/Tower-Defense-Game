@@ -114,5 +114,3 @@ The game also currently has 3 turret types: Basic, Missile, and Laser. The Basic
 <h1>Upgrading/Selling Turrets</h1>
 
 <h1>Particle Effects</h1>
-
-<h1>Game Design</h1>
